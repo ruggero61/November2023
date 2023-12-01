@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 
-namespace ConsoleApp1.DataModel
+namespace RandomNumbersGeneratorEvents.DataModel
 {
     public class ProductList : IEnumerable<Product>
     {

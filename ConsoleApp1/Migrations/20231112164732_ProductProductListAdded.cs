@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace ConsoleApp1.Migrations
+namespace RandomNumbersGeneratorEvents.Migrations
 {
     /// <inheritdoc />
     public partial class ProductProductListAdded : Migration

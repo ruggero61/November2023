@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace RandomNumbersGeneratorEvents;
+
+public static class GlobalVars
 {
-  public static class GlobalVars
-  {
-    public const string ConnectionString = 
-      "Server=localhost;Database=Test1;Trusted_Connection=True;TrustServerCertificate=True;";
-  }
+  public const string ConnectionString = 
+    "Server=localhost;Database=Test1;Trusted_Connection=True;TrustServerCertificate=True;";
 }

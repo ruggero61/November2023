@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp1.DataModel
+﻿namespace RandomNumbersGeneratorEvents.DataModel
 {
     public class Product
     {

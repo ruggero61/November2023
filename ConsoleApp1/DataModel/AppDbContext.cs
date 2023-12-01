@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.SqlServer;
-namespace ConsoleApp1.DataModel
+namespace RandomNumbersGeneratorEvents.DataModel
 {
     public class AppDbContext : DbContext
   {
